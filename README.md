@@ -66,7 +66,6 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 # Dataset:
 ![image](https://github.com/user-attachments/assets/2d7524c4-4e2b-49e4-815d-a169ed8b67c6)
 # Head values:

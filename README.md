@@ -65,22 +65,22 @@ print("RMSE= ",rmse)
 */
 ```
 
-## Output:
-# Dataset:
+# Output:
+## Dataset:
 ![image](https://github.com/user-attachments/assets/2d7524c4-4e2b-49e4-815d-a169ed8b67c6)
-# Head values:
+## Head values:
 ![image](https://github.com/user-attachments/assets/9f6f3695-3ec3-4ba3-87d2-79e316e735f8)
-# Tailvalue:
+## Tailvalue:
 ![image](https://github.com/user-attachments/assets/d0ddcb1f-bfc7-4f78-8683-c0f4c1e169bf)
-# Values of X and Y:
+## Values of X and Y:
 ![image](https://github.com/user-attachments/assets/7541a98a-e794-4729-8be7-9a66eb619353)
-# Predication values of X and Y:
+## Predication values of X and Y:
 ![image](https://github.com/user-attachments/assets/114d9063-6ab0-4bb5-b300-98c57b459cb6)
-# MSE,MAE and RMSE:
+## MSE,MAE and RMSE:
 ![image](https://github.com/user-attachments/assets/96e6e751-8910-4406-bcad-2c98fc06f1f7)
-# Training Set:
+## Training Set:
 ![image](https://github.com/user-attachments/assets/bf78c2d5-004d-421b-aada-64cc21265717)
-# Testing Set:
+## Testing Set:
 ![image](https://github.com/user-attachments/assets/c4fbbb15-040e-4736-ae28-ab1428d4e717)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
